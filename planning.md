@@ -176,4 +176,4 @@ The gradio application interface displays three filled output text frames:
 
 2) Styling advice: "Pair this butterfly print baby tee....."
 
-3) Fit Caption: "Sectured this tee... feelin good"
+3) Fit Caption: "Secured this tee... feelin good"
